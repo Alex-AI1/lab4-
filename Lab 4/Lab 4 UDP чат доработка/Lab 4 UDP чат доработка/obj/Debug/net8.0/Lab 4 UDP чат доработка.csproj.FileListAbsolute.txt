@@ -1,0 +1,14 @@
+D:\Lab 4\Lab 4 UDP чат доработка\Lab 4 UDP чат доработка\bin\Debug\net8.0\Lab 4 UDP чат доработка.exe
+D:\Lab 4\Lab 4 UDP чат доработка\Lab 4 UDP чат доработка\bin\Debug\net8.0\Lab 4 UDP чат доработка.deps.json
+D:\Lab 4\Lab 4 UDP чат доработка\Lab 4 UDP чат доработка\bin\Debug\net8.0\Lab 4 UDP чат доработка.runtimeconfig.json
+D:\Lab 4\Lab 4 UDP чат доработка\Lab 4 UDP чат доработка\bin\Debug\net8.0\Lab 4 UDP чат доработка.dll
+D:\Lab 4\Lab 4 UDP чат доработка\Lab 4 UDP чат доработка\bin\Debug\net8.0\Lab 4 UDP чат доработка.pdb
+D:\Lab 4\Lab 4 UDP чат доработка\Lab 4 UDP чат доработка\obj\Debug\net8.0\Lab 4 UDP чат доработка.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab 4\Lab 4 UDP чат доработка\Lab 4 UDP чат доработка\obj\Debug\net8.0\Lab 4 UDP чат доработка.AssemblyInfoInputs.cache
+D:\Lab 4\Lab 4 UDP чат доработка\Lab 4 UDP чат доработка\obj\Debug\net8.0\Lab 4 UDP чат доработка.AssemblyInfo.cs
+D:\Lab 4\Lab 4 UDP чат доработка\Lab 4 UDP чат доработка\obj\Debug\net8.0\Lab 4 UDP чат доработка.csproj.CoreCompileInputs.cache
+D:\Lab 4\Lab 4 UDP чат доработка\Lab 4 UDP чат доработка\obj\Debug\net8.0\Lab 4 UDP чат доработка.dll
+D:\Lab 4\Lab 4 UDP чат доработка\Lab 4 UDP чат доработка\obj\Debug\net8.0\refint\Lab 4 UDP чат доработка.dll
+D:\Lab 4\Lab 4 UDP чат доработка\Lab 4 UDP чат доработка\obj\Debug\net8.0\Lab 4 UDP чат доработка.pdb
+D:\Lab 4\Lab 4 UDP чат доработка\Lab 4 UDP чат доработка\obj\Debug\net8.0\Lab 4 UDP чат доработка.genruntimeconfig.cache
+D:\Lab 4\Lab 4 UDP чат доработка\Lab 4 UDP чат доработка\obj\Debug\net8.0\ref\Lab 4 UDP чат доработка.dll

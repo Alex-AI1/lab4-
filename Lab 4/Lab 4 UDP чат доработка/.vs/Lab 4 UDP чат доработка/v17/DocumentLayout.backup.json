@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lab 4\\Lab 4 UDP \u0447\u0430\u0442 \u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2F8222-CBB7-45DA-91E7-305487AE7D2C}|Lab 4 UDP \u0447\u0430\u0442 \u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Lab 4 UDP \u0447\u0430\u0442 \u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0430.csproj|d:\\lab 4\\lab 4 udp \u0447\u0430\u0442 \u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\lab 4 udp \u0447\u0430\u0442 \u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2F8222-CBB7-45DA-91E7-305487AE7D2C}|Lab 4 UDP \u0447\u0430\u0442 \u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Lab 4 UDP \u0447\u0430\u0442 \u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0430.csproj|solutionrelative:lab 4 udp \u0447\u0430\u0442 \u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lab 4\\Lab 4 UDP \u0447\u0430\u0442 \u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Lab 4 UDP \u0447\u0430\u0442 \u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Program.cs",
+              "RelativeDocumentMoniker": "Lab 4 UDP \u0447\u0430\u0442 \u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Program.cs",
+              "ToolTip": "D:\\Lab 4\\Lab 4 UDP \u0447\u0430\u0442 \u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Lab 4 UDP \u0447\u0430\u0442 \u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Program.cs",
+              "RelativeToolTip": "Lab 4 UDP \u0447\u0430\u0442 \u0434\u043E\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Program.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAUwMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:08:39.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
